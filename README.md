@@ -20,6 +20,7 @@ The response of the API is a JSON response, we got only the most important featu
  These 8 features are formatted to a plot to visualize and understand these 8 features:
 
 
-  <img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/d6299a15-2d4d-416d-b79d-fed88d6294e1" />
+<img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/17b0d900-890a-4ded-8008-9bf261054db7" />
+
 
  
