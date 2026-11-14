@@ -1,0 +1,6 @@
+1)requests => 2.34.2
+=> to be able to call the required API
+2)Matplotlib.pyplot => 3.11.2
+=> used to draw the formatted output.
+3)python-dotenv => 1.2.4
+=> to get access the data saved in .env file.
