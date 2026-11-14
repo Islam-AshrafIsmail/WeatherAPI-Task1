@@ -8,16 +8,9 @@ The parameters given to the Request command are:
  2) key => The Private_key generated to access the API.
 
 The response of the API is a JSON response, we got only the most important features to describe the Weather Status which are:
- 1)City
- 2)Country
- 3)Temperature in Celsius
- 4)Temperature feels like in Celsius
- 5)Humidity
- 6)Pressure
- 7)UV
- 8)Weather Condition ('overcast', 'clear', etch..)
+ City, Country, Temperature in Celsius, Temperature feels like in Celsius, Humidity, Pressure, UV and Weather Condition ('overcast', 'clear', etch..).
 
- These 8 features are formatted to a plot to visualize and understand these 8 features:
+These 8 features were formatted as a plot to visualize and understand these 8 features:
 
 
 <img width="1000" height="600" alt="Figure_1" src="https://github.com/user-attachments/assets/17b0d900-890a-4ded-8008-9bf261054db7" />
